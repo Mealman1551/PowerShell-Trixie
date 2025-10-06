@@ -13,6 +13,11 @@ After installing you can type:
 ```bash
 pwsh
 ```
+
+## Downloads
+
+Download [PowerShell 7.3.4 for Trixie](https://github.com/Mealman1551/PowerShell-Trixie/raw/refs/heads/main/pwsh-linux-x64.tar.gz)
+
 ## Info
 
 I builded PowerShell 7.3.4 on Debian 12 and ported it to Debian 13 Trixie, PowerShell is as of date (6-10-2025) not supported on Debian 13, so i hope that this build will satisfy your needs.
